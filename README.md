@@ -1,4 +1,5 @@
 # Tasks
+
 ## Data Cleaning:
 
 ##### Deleting redundant columns.
@@ -8,13 +9,14 @@
 ##### Dropping duplicates.
 
 ##### Cleaning individual columns.
+
 ##### Remove the NaN values from the dataset
+
 ##### Check for some more Transformations
 
 -----------------------------------------------------------------------------------
 ## Data Visualization:
 
-##### ∙        Plot a correlation map for all numeric variables
 ##### ∙        Overtime
 ##### ∙        Marital Status
 ##### ∙        Job Role
@@ -24,6 +26,6 @@
 ##### ∙        Business Travel
 ##### ∙        Relation between Overtime and Age
 ##### ∙        Total Working Years
-##### ∙        Education Level
+##### ∙        Education Fild
 ##### ∙        Number of Companies Worked
 ##### ∙        Distance from Home
