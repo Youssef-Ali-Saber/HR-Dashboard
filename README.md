@@ -15,18 +15,7 @@
 -----------------------------------------------------------------------------------
 ## Data Visualization:
 
-##### ∙        Overtime
-##### ∙        Marital Status
-##### ∙        Job Role
-##### ∙        Gender
-##### ∙        Education Field
-##### ∙        Department
-##### ∙        Business Travel
-##### ∙        Relation between Overtime and Age
-##### ∙        Total Working Years
-##### ∙        Education Fild
-##### ∙        Number of Companies Worked
-##### ∙        Distance from Home
+
 
 ----------------------------------------------------------------------------------
 ## Data Insights
