@@ -18,7 +18,7 @@
 ![image]([employee_overview_dashboard.png](https://github.com/Youssef-Ali-Saber/HR-Dashboard/blob/9c944dd98ee4e2269ce23ed813acccb3c3ed4972/employee%20overview%20dashboard.png))
 
 #### Employee Attrition Dashboard : 
-![image]([employee_attrition_dashboard.png](https://github.com/Youssef-Ali-Saber/HR-Dashboard/blob/9c944dd98ee4e2269ce23ed813acccb3c3ed4972/employee%20attrition%20dashboard.png))
+([employee_attrition_dashboard.png](https://github.com/Youssef-Ali-Saber/HR-Dashboard/blob/9c944dd98ee4e2269ce23ed813acccb3c3ed4972/employee%20attrition%20dashboard.png))
 
 ----------------------------------------------------------------------------------
 ## Data Insights
