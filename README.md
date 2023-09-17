@@ -1,4 +1,4 @@
-## Data Cleaning Power Query in Power BI:
+## Data Cleaning using Power Query in Power BI:
 
 ##### Deleting redundant columns.
 
@@ -15,10 +15,10 @@
 -----------------------------------------------------------------------------------
 ## Data Visualization using Power BI:
 #### Employee overview Dashboard : 
-
+![image](employee_overview_dashboard.png)
 
 #### Employee Attrition Dashboard : 
-
+![image](employee_attrition_dashboard.png)
 
 ----------------------------------------------------------------------------------
 ## Data Insights
