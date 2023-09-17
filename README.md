@@ -1,5 +1,5 @@
 ## HR Dashboard
-#### Data Cleaning:
+### Data Cleaning:
 ##### Deleting redundant columns.
 
 ##### Renaming the columns.
@@ -9,7 +9,7 @@
 ##### Cleaning individual columns.
 Remove the NaN values from the dataset
 Check for some more Transformations
-#### Data Visualization:
+### Data Visualization:
 ∙        Plot a correlation map for all numeric variables
 ∙        Overtime
 ∙        Marital Status
