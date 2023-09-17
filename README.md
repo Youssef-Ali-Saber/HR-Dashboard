@@ -15,10 +15,10 @@
 -----------------------------------------------------------------------------------
 ## Data Visualization using Power BI:
 #### Employee overview Dashboard : 
-![image](employee overview dashboard.png)
+![image](employee_overview_dashboard.png)
 
 #### Employee Attrition Dashboard : 
-![image](employee attrition dashboard.png)
+![image](employee_attrition_dashboard.png)
 
 ----------------------------------------------------------------------------------
 ## Data Insights
