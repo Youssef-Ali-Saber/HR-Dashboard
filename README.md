@@ -1,5 +1,6 @@
 ## HR Dashboard
-### Data Cleaning:
+## Data Cleaning:
+
 ##### Deleting redundant columns.
 
 ##### Renaming the columns.
@@ -11,7 +12,8 @@
 ##### Check for some more Transformations
 
 -----------------------------------------------------------------------------------
-### Data Visualization:
+## Data Visualization:
+
 ##### ∙        Plot a correlation map for all numeric variables
 ##### ∙        Overtime
 ##### ∙        Marital Status
