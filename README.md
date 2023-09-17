@@ -1,5 +1,3 @@
-# Tasks
-
 ## Data Cleaning:
 
 ##### Deleting redundant columns.
@@ -29,3 +27,13 @@
 ##### ∙        Education Fild
 ##### ∙        Number of Companies Worked
 ##### ∙        Distance from Home
+
+----------------------------------------------------------------------------------
+## Data Insights
+
+#### . 64% of employee have home very close from work.
+#### . Number of attritions is 237 with ratio (16%).
+#### . The ratio of Male Employee is 60% and The ratio of Female Employee is 40%.
+#### . 
+#### . 
+#### . 
