@@ -1,17 +1,3 @@
-## Data Cleaning using Power Query in Power BI:
-
-##### Deleting redundant columns.
-
-##### Renaming the columns.
-
-##### Dropping duplicates.
-
-##### Cleaning individual columns.
-
-##### Remove the NaN values from the dataset
-
-##### Check for some more Transformations
-
 -----------------------------------------------------------------------------------
 ## Data Visualization using Power BI:
 #### Employee overview Dashboard : 
@@ -21,17 +7,11 @@
 ![image](employee_attrition_dashboard.png)
 
 ----------------------------------------------------------------------------------
-## Data Insights
 
-#### . There are 1353 active employees
-#### . There are 64% of employee have home very close from work.
-#### . Number of attritions is 237 with ratio (16%).
-#### . The ratio of Male Employee is 60% and The ratio of Female Employee is 40%.
-#### . Jop level 1 have 541 employees  and the next job level 2 have 525 employees
-#### . There are 196 employees have 5 years service and 171 employees have 1 years service
-#### . There are 28% of employees have overtime
-#### . Age from 25 to 30 have the biggest number of attrition (62)
-#### . Life sciences of education field has the biggest number of attrition (89)
-#### . Department Research & Development have the biggest number of attrition (133) and the biggest number of Active employee (887)
-#### . Jop Sales Executive have the biggest number of employee (326) and the biggest number of Active employee (306) and the second biggest number of attrition (57)
-#### . Jop Laboratary technician have the biggest number of attrition (62)
+As a Power BI Data Analyst, I executed comprehensive data cleaning using Power Query, enhancing dataset quality. I deleted redundant columns, renamed headers for clarity, and dropped duplicates. I meticulously cleaned individual columns and removed NaN values, ensuring a refined dataset.
+
+Employing Power BI's visualization capabilities, I developed two impactful dashboards. The Employee Overview Dashboard provides a holistic view, revealing key metrics such as 1353 active employees, 64% living close to work, and a 16% attrition rate. The Employee Attrition Dashboard further delves into specifics, highlighting trends like 60% male to 40% female ratio, 28% overtime prevalence, and attrition patterns based on age, education field, and job roles.
+
+Key insights include identifying attrition hotspots, such as job level 1 and Research & Development department, while also noting success areas like Sales Executive roles. Furthermore, the dashboard showcases demographic breakdowns and tenure distributions, offering a nuanced understanding of the workforce.
+
+These visualizations not only facilitate quick comprehension but also empower stakeholders to make informed decisions, leveraging actionable insights derived from the data.
